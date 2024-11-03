@@ -1,0 +1,8 @@
+### https://studio.apollographql.com/sandbox/explorer
+
+POST http://localhost:3000/rocketInfo
+Content-Type: application/json
+
+{
+    "limit": 2
+}
